@@ -2,3 +2,6 @@ This is a separate modification!
 Part1-A-Step9
 Part3-A-Step2
 Extra line
+
+Part4-A-Step6
+Part4-A-Step10
